@@ -1,0 +1,37 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.14118,0.65882,0.27059,1.00000",
+      "display-p3:0.14118,0.65882,0.27059,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "glass" : true,
+          "image-name" : "icon_transparent.png",
+          "name" : "icon_transparent"
+        },
+        {
+          "image-name" : "Screenshot 2026-02-22 at 8.20.45 PM.png",
+          "name" : "Screenshot 2026-02-22 at 8.20.45 PM"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
