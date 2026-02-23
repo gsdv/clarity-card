@@ -1,0 +1,3 @@
+# Clarity Card Terms and Conditions
+
+By using Clarity Card, you agree to use the app for educational and informational purposes only. The app provides general credit card learning tools and estimates, not financial, legal, or professional advice, and you are responsible for any decisions you make based on the content. Clarity Card is provided “as is” without warranties of any kind, and we may update or improve features at any time. The app is intended for general audiences and may be used by anyone.
